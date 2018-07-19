@@ -1,0 +1,6 @@
+[submodule "education"]
+	path = education
+	url = https://github.com/brokenlyre/education.git
+[submodule "standards"]
+	path = standards
+	url = https://github.com/brokenlyre/standards.git

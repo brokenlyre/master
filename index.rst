@@ -13,3 +13,5 @@ We are good at doing lots of things
    :caption: Contents:
 
    allabout
+   education/index
+   standards/index
